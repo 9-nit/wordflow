@@ -2,6 +2,9 @@
 
 WordFlow is a single-file blogging platform demo built with plain HTML, CSS, and JavaScript. It provides a reading experience, authentication flow, writing editor, user dashboard, comments, profile settings, and an admin panel, all inside one self-contained front-end file with browser storage persistence.
 
+## Preview
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://nit-blogpost.netlify.app/)
+
 ## Overview
 
 The application is structured as a standalone browser app with multiple page sections toggled in the DOM rather than separate routes or backend-rendered screens.  It includes a home feed, post detail view, authentication screen, editor, dashboard, admin area, and a modal for viewing a local users database. 
